@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tittle">Pathseen</string>
+    <string name="Tittle">Tittle</string>
+    <string name="Director">Director</string>
+    <string name="Genre">Genre</string>
+    <string name="Save">Save</string>
+    <string name="Score">Score</string>
+    <string name="List">List</string>
+</resources>
